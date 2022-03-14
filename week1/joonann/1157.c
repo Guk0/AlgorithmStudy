@@ -2,7 +2,7 @@
 #include <string.h>
 
 char	str[1000001];
-int	check[26] = {0};
+int	check[26];
 
 // ASCII 65 = 'A'  97 = 'a'  63 = '?'
 
