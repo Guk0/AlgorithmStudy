@@ -26,3 +26,4 @@
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
 | 단어 공부 | https://www.acmicpc.net/problem/1157 | B1 | O |
+| 두 수 비교 | https://www.acmicpc.net/problem/1330 | B4 | O |
