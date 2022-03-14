@@ -10,6 +10,7 @@
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
+| --- | --- | --- | --- |
 | 절댓값힙 | https://www.acmicpc.net/problem/11286 | S1 | O |
 | 에너지모으기 | https://www.acmicpc.net/problem/16198 | S1 | O |
 | 이항쇼다운 | https://www.acmicpc.net/problem/6591 | S3 | O |
