@@ -22,7 +22,8 @@
 | 스택 수열 | https://www.acmicpc.net/problem/1874 | S3 |  X  |
 
 
-## joooonan
+## joonann
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
-| 문제이름 | 문제링크 | 레벨 | O,X  |
+| 단어 공부 | https://www.acmicpc.net/problem/1157 | B1 | O |
+| 두 수 비교 | https://www.acmicpc.net/problem/1330 | B4 | O |
