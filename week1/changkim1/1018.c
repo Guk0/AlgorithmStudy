@@ -91,26 +91,6 @@ int	make_chess_count_W(char **tmp)
 	return (count_W);
 }
 
-int	make_result(int **count_arr, int n, int m)
-{
-	int i, j;
-
-	i = 0;
-	j = 0;
-	int result = count_arr[0][0];
-	while (i <  m - 6)
-	{
-		j = 0;
-		while (j < n - 6)
-		{
-			result = count_arr[i][j] > count_arr[i][j + 1] ? count_arr[i][j + 1] : count_arr[i][j];
-			j++;
-		}
-		i++;
-	}
-	return (result);
-}
-
 int	make_chess_count_B(char **tmp)
 {
 	int x = 0, y = 0, count_B = 0;

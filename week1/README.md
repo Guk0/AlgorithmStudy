@@ -20,6 +20,7 @@
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
 | 스택 수열 | https://www.acmicpc.net/problem/1874 | S3 |  X  |
+| 체스판 다시 칠하기 | https://www.acmicpc.net/problem/1018 | S5 |  O  |
 
 
 ## joonann
