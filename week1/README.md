@@ -19,7 +19,7 @@
 ## changkim1
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
-| 문제이름 | 문제링크 | 레벨 | O,X  |
+| 스택 수열 | https://www.acmicpc.net/problem/1874 | S3 |  X  |
 
 
 ## joooonan
