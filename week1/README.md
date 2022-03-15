@@ -29,3 +29,4 @@
 | --- | --- | --- | --- |
 | 단어 공부 | https://www.acmicpc.net/problem/1157 | B1 | O |
 | 두 수 비교 | https://www.acmicpc.net/problem/1330 | B4 | O |
+| 체스판 다시 칠하기 | https://www.acmicpc.net/problem/1018 | S5 |  O  |
