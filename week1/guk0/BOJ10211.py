@@ -15,5 +15,8 @@ for _ in range(T):
 
   for i in range(1, N):
     dp[i] = max(dp[i-1]+arr[i], arr[i])
+    print(dp)
     
   print(max(dp))
+
+# -2 -2 1 3 -5
