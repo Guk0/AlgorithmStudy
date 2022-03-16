@@ -23,6 +23,7 @@
 | --- | --- | --- | --- |
 | 스택 수열 | https://www.acmicpc.net/problem/1874 | S3 |  X  |
 | 체스판 다시 칠하기 | https://www.acmicpc.net/problem/1018 | S5 |  O  |
+| 단어 정렬 | https://www.acmicpc.net/problem/1181 | S5 |  O  |
 
 
 ## joonann
