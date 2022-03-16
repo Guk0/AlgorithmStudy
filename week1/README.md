@@ -8,6 +8,10 @@
 | Maximum Subarray | https://www.acmicpc.net/problem/10211 | S3 | X  |
 | 퇴사 | https://www.acmicpc.net/problem/14501 | S3 | O  |
 | 피자 (Large) | https://www.acmicpc.net/problem/14607 | S3 | X |
+| 달나라 토끼를 위한 구매대금 지불 도우미 | https://www.acmicpc.net/problem/17212 | S3 | O |
+
+
+
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
