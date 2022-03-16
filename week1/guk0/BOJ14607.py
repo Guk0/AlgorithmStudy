@@ -1,11 +1,14 @@
 # https://www.acmicpc.net/problem/14607
 # 피자 (Large)
 # DP
-# N * (N-1) // 2 vs int(N * (N-1) / 2)
 
 N = int(input())
 
 print(N * (N-1) // 2)
+# print(int(N * (N-1) / 2)) 
+# 2번째로 하면 부동소수점 문제 발생. 정수를 나눌 때는 int로 형변환 하기 보다는 //로 몫만 따오는게 맞을듯.
+
+
 
 
 # 메모리 초과 10**9
