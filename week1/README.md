@@ -9,7 +9,6 @@
 | 퇴사 | https://www.acmicpc.net/problem/14501 | S3 | O  |
 | 피자 (Large) | https://www.acmicpc.net/problem/14607 | S3 | X |
 | 달나라 토끼를 위한 구매대금 지불 도우미 | https://www.acmicpc.net/problem/17212 | S3 | O |
-| 달나라 토끼를 위한 구매대금 지불 도우미 | https://www.acmicpc.net/problem/17212 | S3 | O |
 | 안녕 | https://www.acmicpc.net/problem/1535 | S2 | O |
 | 최대 페이지 수 | https://www.acmicpc.net/problem/16493 | S2 | O |
 
