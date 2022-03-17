@@ -33,6 +33,7 @@
 | 배열 돌리기 1 | https://www.acmicpc.net/problem/16926 | S2 |  O  |
 | 소수 찾기 | https://www.acmicpc.net/problem/1978 | S4 |  O  |
 | 달나라 토끼를 위한 구매대금 지불 도우미 | https://www.acmicpc.net/problem/17212 | S3 | O |
+| ACM 호텔 | https://www.acmicpc.net/problem/10250 | B3 | O |
 
 
 ## joonann
