@@ -11,7 +11,7 @@
 | 달나라 토끼를 위한 구매대금 지불 도우미 | https://www.acmicpc.net/problem/17212 | S3 | O |
 | 안녕 | https://www.acmicpc.net/problem/1535 | S2 | O |
 | 최대 페이지 수 | https://www.acmicpc.net/problem/16493 | S2 | O |
-
+| 돌게임4 | https://www.acmicpc.net/problem/9658 | S2 | O  |
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
@@ -22,6 +22,7 @@
 | 에너지모으기 | https://www.acmicpc.net/problem/16198 | S1 | O |
 | 이항쇼다운 | https://www.acmicpc.net/problem/6591 | S3 | O |
 | 통계학 | https://www.acmicpc.net/problem/2108 | S3 | O |
+| 트리의부모찾기 | https://www.acmicpc.net/problem/11725 | S3 | O |
 
 
 ## changkim1
