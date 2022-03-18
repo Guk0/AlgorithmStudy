@@ -46,3 +46,4 @@
 | 체스판 다시 칠하기 | https://www.acmicpc.net/problem/1018 | S5 |  O  |
 | 배열 돌리기 1 | https://www.acmicpc.net/problem/16926 | S2 |  O  |
 | 단어 정렬 | https://www.acmicpc.net/problem/1181 | S5 |  O  |
+| 랜선 자르기 | https://www.acmicpc.net/problem/1654 | S3 | X \
