@@ -30,6 +30,7 @@
 | 이항쇼다운 | https://www.acmicpc.net/problem/6591 | S3 | O |
 | 통계학 | https://www.acmicpc.net/problem/2108 | S3 | O |
 | 트리의부모찾기 | https://www.acmicpc.net/problem/11725 | S3 | O |
+| 수정렬하기3 | https://www.acmicpc.net/problem/10989 | S5 | O |
 
 
 ## changkim1
