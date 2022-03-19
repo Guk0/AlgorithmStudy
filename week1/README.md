@@ -12,7 +12,14 @@
 | 안녕 | https://www.acmicpc.net/problem/1535 | S2 | O |
 | 최대 페이지 수 | https://www.acmicpc.net/problem/16493 | S2 | O |
 | 돌게임4 | https://www.acmicpc.net/problem/9658 | S2 | O  |
+| 호텔 | https://www.acmicpc.net/problem/1106 | S1 | X |
+| Coins | https://www.acmicpc.net/problem/3067 | G5 | O |
+| 사탕 가게 | https://www.acmicpc.net/problem/4781 | G5 | O |
+| 평범한 배낭 | https://www.acmicpc.net/problem/12865 | G5 | O |
+| 벼락치기 | https://www.acmicpc.net/problem/14728 | G5 | O |
 
+
+벼락치기
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
