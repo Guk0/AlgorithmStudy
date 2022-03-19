@@ -20,7 +20,6 @@
 | 수도배관공사 | https://www.acmicpc.net/problem/2073 | G4 | X |
 
 
-벼락치기
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
