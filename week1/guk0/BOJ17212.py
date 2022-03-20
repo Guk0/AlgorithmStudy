@@ -16,3 +16,20 @@ for i in range(1, N+1):
 
 print(dp[N])
 # print(dp)
+
+
+# 개선
+
+# from sys import stdin
+
+# N = int(stdin.readline())
+# coins = [1, 2, 5, 7]
+
+# dp = [1e9] * (N + 1)
+# dp[0] = 0
+
+# for coin in coins:
+#   for i in range(coin, N+1):
+#     dp[i] = min(dp[i], dp[i-coin] + 1)
+
+# print(dp[N])

@@ -18,6 +18,7 @@
 | 평범한 배낭 | https://www.acmicpc.net/problem/12865 | G5 | O |
 | 벼락치기 | https://www.acmicpc.net/problem/14728 | G5 | O |
 | 수도배관공사 | https://www.acmicpc.net/problem/2073 | G4 | X |
+| RGB거리 | https://www.acmicpc.net/problem/1149 | S1 | X |
 
 
 ## hbae 
