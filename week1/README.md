@@ -25,6 +25,7 @@
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
 | 스도쿠 | https://www.acmicpc.net/problem/2580 | G4 | O |
+| 외계인의기타연주 | https://www.acmicpc.net/problem/2841 | S1 | O |
 | A에서B | https://www.acmicpc.net/problem/16953 | S1 | O |
 | 절댓값힙 | https://www.acmicpc.net/problem/11286 | S1 | O |
 | 에너지모으기 | https://www.acmicpc.net/problem/16198 | S1 | O |
