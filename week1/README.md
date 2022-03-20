@@ -46,6 +46,7 @@
 | 달나라 토끼를 위한 구매대금 지불 도우미 | https://www.acmicpc.net/problem/17212 | S3 | O |
 | ACM 호텔 | https://www.acmicpc.net/problem/10250 | B3 | O |
 | 덩치 | https://www.acmicpc.net/problem/7568 | S5 | O |
+| 숫자의 합 | https://www.acmicpc.net/problem/11720 | B2 | O |
 
 
 ## joonann
