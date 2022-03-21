@@ -3,6 +3,8 @@
 ## guk0
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
+| 동물원 | https://www.acmicpc.net/problem/1309 | S1 | O |
+| 동물원 | https://www.acmicpc.net/problem/1446 | S1 | O |
 
 
 ## hbae 
