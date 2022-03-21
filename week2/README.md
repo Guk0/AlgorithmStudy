@@ -19,3 +19,4 @@
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
 | 랜선 자르기 | https://www.acmicpc.net/problem/1654 | S3 | O |
+| 팰린드롬수 | https://www.acmicpc.net/problem/1259 | B1 | O |
