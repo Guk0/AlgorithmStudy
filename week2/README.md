@@ -24,3 +24,4 @@
 | --- | --- | --- | --- |
 | 랜선 자르기 | https://www.acmicpc.net/problem/1654 | S3 | O |
 | 팰린드롬수 | https://www.acmicpc.net/problem/1259 | B1 | O |
+| 직사각형 탈출 | https://www.acmicpc.net/problem/1085 | B3 | O |
