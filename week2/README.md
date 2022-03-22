@@ -7,7 +7,8 @@
 | 지름길 | https://www.acmicpc.net/problem/1446 | S1 | O |
 | 기타리스트 | https://www.acmicpc.net/problem/1495 | S1 | O |
 | 트럭 | https://www.acmicpc.net/problem/13335 | S1 | O |
-
+| 뱀 | https://www.acmicpc.net/problem/3190 | G5 | O |
+| 로봇 청소기 | https://www.acmicpc.net/problem/14503 | G5 | O |
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
