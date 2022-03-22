@@ -12,6 +12,7 @@
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
+| 흙길보수하기 | https://www.acmicpc.net/problem/1911 | S1 | O |
 
 
 ## changkim1
