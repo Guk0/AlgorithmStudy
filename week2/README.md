@@ -18,6 +18,7 @@
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
 | 좌표 정렬하기 2 | https://www.acmicpc.net/problem/11651 | S5 | O |
+| 수 정렬하기 3 | https://www.acmicpc.net/problem/10989 | S5 | O |
 
 
 ## joonann
