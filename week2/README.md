@@ -6,6 +6,7 @@
 | 동물원 | https://www.acmicpc.net/problem/1309 | S1 | O |
 | 지름길 | https://www.acmicpc.net/problem/1446 | S1 | O |
 | 기타리스트 | https://www.acmicpc.net/problem/1495 | S1 | O |
+| 트럭 | https://www.acmicpc.net/problem/13335 | S1 | O |
 
 
 ## hbae 
