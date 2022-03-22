@@ -17,6 +17,7 @@
 ## changkim1
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
+| 좌표 정렬하기 2 | https://www.acmicpc.net/problem/11651 | S5 | O |
 
 
 ## joonann
