@@ -9,6 +9,8 @@
 | 트럭 | https://www.acmicpc.net/problem/13335 | S1 | O |
 | 뱀 | https://www.acmicpc.net/problem/3190 | G5 | O |
 | 로봇 청소기 | https://www.acmicpc.net/problem/14503 | G5 | O |
+| 최단경로 | https://www.acmicpc.net/problem/1753 | G5 | O |
+
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
