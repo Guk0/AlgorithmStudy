@@ -32,3 +32,4 @@
 | 랜선 자르기 | https://www.acmicpc.net/problem/1654 | S3 | O |
 | 팰린드롬수 | https://www.acmicpc.net/problem/1259 | B1 | O |
 | 직사각형 탈출 | https://www.acmicpc.net/problem/1085 | B3 | O |
+| 영화감독 숌 | https://www.acmicpc.net/problem/1436 | S5 | O |
