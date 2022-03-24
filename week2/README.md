@@ -11,6 +11,7 @@
 | 로봇 청소기 | https://www.acmicpc.net/problem/14503 | G5 | O |
 | 최단경로 | https://www.acmicpc.net/problem/1753 | G5 | O |
 | 거리두기 확인하기 | https://programmers.co.kr/learn/courses/30/lessons/81302 | LV2 | X |
+| 벽 부수고 이동하기 | https://www.acmicpc.net/problem/2206 | G4 | X |
 
 
 ## hbae 
