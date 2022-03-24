@@ -26,6 +26,7 @@
 | 수 정렬하기 3 | https://www.acmicpc.net/problem/10989 | S5 | O |
 | 괄호 | https://www.acmicpc.net/problem/9012 | S4 | O |
 | 영화감독 숌 | https://www.acmicpc.net/problem/1436 | S5 | O |
+| 프린터 큐 | https://www.acmicpc.net/problem/1966 | S3 | X |
 
 
 ## joonann
