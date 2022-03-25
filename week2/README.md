@@ -12,6 +12,10 @@
 | 최단경로 | https://www.acmicpc.net/problem/1753 | G5 | O |
 | 거리두기 확인하기 | https://programmers.co.kr/learn/courses/30/lessons/81302 | LV2 | X |
 | 벽 부수고 이동하기 | https://www.acmicpc.net/problem/2206 | G4 | X |
+| n진수 게임 | https://programmers.co.kr/learn/courses/30/lessons/17687 | LV2 | O |
+| 소수찾기 | https://programmers.co.kr/learn/courses/30/lessons/42839 | LV2 | O |
+| 팰린드로 만들기 | https://programmers.co.kr/learn/courses/30/lessons/1254 | S1 | O |
+
 
 
 ## hbae 
