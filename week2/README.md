@@ -15,7 +15,9 @@
 | n진수 게임 | https://programmers.co.kr/learn/courses/30/lessons/17687 | LV2 | O |
 | 소수찾기 | https://programmers.co.kr/learn/courses/30/lessons/42839 | LV2 | O |
 | 팰린드로 만들기 | https://programmers.co.kr/learn/courses/30/lessons/1254 | S1 | O |
-
+| 교점에 별만들기 | https://programmers.co.kr/learn/courses/30/lessons/87377 | LV2 | O |
+| 뉴스 클러스터링 | https://programmers.co.kr/learn/courses/30/lessons/17677 | LV2 | O |
+| 부분 문자열 | https://www.acmicpc.net/problem/16919 | G3 | X |
 
 
 ## hbae 
