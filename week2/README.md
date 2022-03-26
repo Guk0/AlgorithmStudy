@@ -21,8 +21,11 @@
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
+| 색종이붙이기 | https://www.acmicpc.net/problem/17136 | G2 | O |
 | 흙길보수하기 | https://www.acmicpc.net/problem/1911 | S1 | O |
+| 양치기꿍 | https://www.acmicpc.net/problem/3187 | S2 | O |
 | 섬의개수 | https://www.acmicpc.net/problem/4963 | S2 | O |
+| 에디터 | https://www.acmicpc.net/problem/1406 | S3 | O |
 
 
 ## changkim1
