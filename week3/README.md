@@ -14,7 +14,7 @@
 
 ## changkim1
 | 문제 | 링크 | Lv  | Solved? |
-| --- | --- | --- | --- |
+| 스택 | https://www.acmicpc.net/problem/10828 | S4 | O |
 
 
 ## joonann
