@@ -38,6 +38,7 @@
 | 괄호 | https://www.acmicpc.net/problem/9012 | S4 | O |
 | 영화감독 숌 | https://www.acmicpc.net/problem/1436 | S5 | O |
 | 프린터 큐 | https://www.acmicpc.net/problem/1966 | S3 | X |
+| 제로 | https://www.acmicpc.net/problem/10773 | S4 | O |
 
 
 ## joonann
