@@ -13,6 +13,7 @@
 | 최소스패닝트리 | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_mSnmKUckDFAWb | D4 | O |
 | 말이되고픈원숭이 | https://www.acmicpc.net/problem/1600 | G4 | O |
 | 치즈 | https://www.acmicpc.net/problem/2636 | G4 | O |
+| 모노톤길 | https://www.acmicpc.net/problem/11067 | S1 | O |
 
 
 ## changkim1
