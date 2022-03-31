@@ -4,8 +4,7 @@
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
 | 곱셈 | https://www.acmicpc.net/problem/1629 | S1 | X |
-
-
+| 정수 삼각형 | https://www.acmicpc.net/problem/1932 | S1 | O |
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
