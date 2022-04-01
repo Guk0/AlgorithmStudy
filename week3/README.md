@@ -34,3 +34,4 @@
 ## joonann
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
+| 별 찍기 -10 | https://www.acmicpc.net/problem/2447 | S1 | O |
