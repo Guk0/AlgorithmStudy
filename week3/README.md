@@ -15,13 +15,15 @@
 | 녹색옷입은애가젤다 | https://www.acmicpc.net/problem/4485 | G4 | O |
 | 최소스패닝트리 | https://www.acmicpc.net/problem/1197 | G4 | O |
 | 말이되고픈원숭이 | https://www.acmicpc.net/problem/1600 | G4 | O |
-| 평범한배낭 | https://www.acmicpc.net/problem/12865 | G5 | O |
 | 치즈 | https://www.acmicpc.net/problem/2636 | G4 | O |
+| 평범한배낭 | https://www.acmicpc.net/problem/12865 | G5 | O |
+| 로봇청소기 | https://www.acmicpc.net/problem/14503 | G5 | O |
 | 모노톤길 | https://www.acmicpc.net/problem/11067 | S1 | O |
 | 신나는함수실행 | https://www.acmicpc.net/problem/9184 | S2 | O |
 | 다이나믹이뭐예요 | https://www.acmicpc.net/problem/14494 | S2 | O |
 | 파도반수열 | https://www.acmicpc.net/problem/9461 | S3 | O |
 | 1로만들기 | https://www.acmicpc.net/problem/1463 | S3 | O |
+| 계단오르기 | https://www.acmicpc.net/problem/2579 | S3 | O |
 
 
 ## changkim1
