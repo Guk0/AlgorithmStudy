@@ -33,6 +33,7 @@
 | 숫자 카드 2 | https://www.acmicpc.net/problem/10816 | S4 | O |
 | 큐 | https://www.acmicpc.net/problem/10845 | S4 | O |
 | 덱 | https://www.acmicpc.net/problem/10866 | S4 | O |
+| 요세푸스 문제 0 | https://www.acmicpc.net/problem/11866 | S4 | O |
 
 
 ## joonann
