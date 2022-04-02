@@ -34,6 +34,7 @@
 | 큐 | https://www.acmicpc.net/problem/10845 | S4 | O |
 | 덱 | https://www.acmicpc.net/problem/10866 | S4 | O |
 | 요세푸스 문제 0 | https://www.acmicpc.net/problem/11866 | S4 | O |
+| 팰린드롬수 | https://www.acmicpc.net/problem/1259 | B1 | O |
 
 
 ## joonann
