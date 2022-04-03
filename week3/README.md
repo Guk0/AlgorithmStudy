@@ -25,6 +25,7 @@
 | 수 정렬하기 2 | https://www.acmicpc.net/problem/2751 | S5 | O |
 | 숫자 카드 2 | https://www.acmicpc.net/problem/10816 | S4 | O |
 | 큐 | https://www.acmicpc.net/problem/10845 | S4 | O |
+| 최대공약수와 최소공배수 | https://www.acmicpc.net/problem/2609 | S5 | O |
 
 
 ## joonann
