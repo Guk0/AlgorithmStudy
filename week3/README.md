@@ -35,13 +35,13 @@
 | 수 정렬하기 2 | https://www.acmicpc.net/problem/2751 | S5 | O |
 | 숫자 카드 2 | https://www.acmicpc.net/problem/10816 | S4 | O |
 | 큐 | https://www.acmicpc.net/problem/10845 | S4 | O |
-<<<<<<< HEAD
 | 최대공약수와 최소공배수 | https://www.acmicpc.net/problem/2609 | S5 | O |
-=======
 | 덱 | https://www.acmicpc.net/problem/10866 | S4 | O |
 | 요세푸스 문제 0 | https://www.acmicpc.net/problem/11866 | S4 | O |
 | 팰린드롬수 | https://www.acmicpc.net/problem/1259 | B1 | O |
->>>>>>> d8699a62455d6d6d6b74c729060bf41ce3dd7aa0
+| 블랙잭 | https://www.acmicpc.net/problem/2798 | B2 | O |
+| 직각삼각형 | https://www.acmicpc.net/problem/4153 | B3 | O |
+| 이항 계수 1 | https://www.acmicpc.net/problem/11050 | B1 | O |
 
 
 ## joonann
