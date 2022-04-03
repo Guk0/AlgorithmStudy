@@ -19,6 +19,7 @@
 | 평범한배낭 | https://www.acmicpc.net/problem/12865 | G5 | O |
 | 로봇청소기 | https://www.acmicpc.net/problem/14503 | G5 | O |
 | 모노톤길 | https://www.acmicpc.net/problem/11067 | S1 | O |
+| 1로만들기2 | https://www.acmicpc.net/problem/12852 | S1 | O |
 | 신나는함수실행 | https://www.acmicpc.net/problem/9184 | S2 | O |
 | 다이나믹이뭐예요 | https://www.acmicpc.net/problem/14494 | S2 | O |
 | 파도반수열 | https://www.acmicpc.net/problem/9461 | S3 | O |
