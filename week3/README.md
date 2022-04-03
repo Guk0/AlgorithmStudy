@@ -42,6 +42,7 @@
 | 블랙잭 | https://www.acmicpc.net/problem/2798 | B2 | O |
 | 직각삼각형 | https://www.acmicpc.net/problem/4153 | B3 | O |
 | 이항 계수 1 | https://www.acmicpc.net/problem/11050 | B1 | O |
+| 통계학 | https://www.acmicpc.net/problem/2108 | S3 | O |
 
 
 ## joonann
