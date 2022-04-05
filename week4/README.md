@@ -3,6 +3,9 @@
 ## guk0
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
+| 희의실배정2, 3 | # https://www.acmicpc.net/problem/19621
+ | S3, S2 | O |
+
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
