@@ -3,8 +3,10 @@
 ## guk0
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
-| 희의실배정2, 3 | # https://www.acmicpc.net/problem/19621 | S3, S2 | O |
-
+| 희의실배정2, 3 | https://www.acmicpc.net/problem/19621
+ | S3, S2 | O |
+| 수열과 쿼리 15 | https://www.acmicpc.net/problem/9077
+ | G2 | X |
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
