@@ -1,5 +1,6 @@
 # https://www.acmicpc.net/problem/2042
 # 구간 합 구하기
+# 세그먼트 트리
 
 import math
 from sys import stdin

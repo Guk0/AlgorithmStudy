@@ -1,5 +1,6 @@
 # https://www.acmicpc.net/problem/14428
 # 수열과 쿼리 16
+# 세그먼트 트리
 
 from sys import stdin
 import math

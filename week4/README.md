@@ -11,6 +11,9 @@
  | G1 | X |
 | 구간 합 구하기 | https://www.acmicpc.net/problem/2042
  | G1 | O |
+| 최솟값과 최댓값 | https://www.acmicpc.net/problem/2357
+ | G1 | O |
+
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
