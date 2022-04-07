@@ -1,3 +1,6 @@
+# https://www.acmicpc.net/problem/2042
+# 구간 합 구하기
+
 import math
 from sys import stdin
 
