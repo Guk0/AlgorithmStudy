@@ -43,3 +43,4 @@
 | --- | --- | --- | --- |
 | 수 찾기 | https://beginnerdeveloper-lit.tistory.com/15 | S4 | O |
 | 숫자의 합 | https://www.acmicpc.net/problem/11720 | B2 | O |
+| 통계학 | https://www.acmicpc.net/problem/2108 | S3 | O |
