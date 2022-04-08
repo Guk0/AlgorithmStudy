@@ -8,7 +8,8 @@
 | 수열과 쿼리 16 | https://www.acmicpc.net/problem/14428 | G1 | X |
 | 구간 합 구하기 | https://www.acmicpc.net/problem/2042 | G1 | O |
 | 최솟값과 최댓값 | https://www.acmicpc.net/problem/2357 | G1 | O |
-
+| 거짓말 | https://www.acmicpc.net/problem/1043 | G4 | X |
+| 2*n 타일링 | https://programmers.co.kr/learn/courses/30/lessons/12900 | L3 | O |
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
