@@ -3,16 +3,11 @@
 ## guk0
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
-| 희의실배정2, 3 | https://www.acmicpc.net/problem/19621
- | S3, S2 | O |
-| 수열과 쿼리 15 | https://www.acmicpc.net/problem/9077
- | G2 | X |
-| 수열과 쿼리 16 | https://www.acmicpc.net/problem/14428
- | G1 | X |
-| 구간 합 구하기 | https://www.acmicpc.net/problem/2042
- | G1 | O |
-| 최솟값과 최댓값 | https://www.acmicpc.net/problem/2357
- | G1 | O |
+| 희의실배정2, 3 | https://www.acmicpc.net/problem/19621 | S3, S2 | O |
+| 수열과 쿼리 15 | https://www.acmicpc.net/problem/9077 | G2 | X |
+| 수열과 쿼리 16 | https://www.acmicpc.net/problem/14428 | G1 | X |
+| 구간 합 구하기 | https://www.acmicpc.net/problem/2042 | G1 | O |
+| 최솟값과 최댓값 | https://www.acmicpc.net/problem/2357 | G1 | O |
 
 
 ## hbae 
