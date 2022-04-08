@@ -41,5 +41,5 @@
 ## joonann
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
-| 수 찾기 | https://beginnerdeveloper-lit.tistory.com/15 | S4 | X |
+| 수 찾기 | https://beginnerdeveloper-lit.tistory.com/15 | S4 | O |
 | 숫자의 합 | https://www.acmicpc.net/problem/11720 | B2 | O |
