@@ -24,7 +24,7 @@
 | 스도쿠 | https://www.acmicpc.net/problem/2239 | G4 | O |
 | 키순서 | https://www.acmicpc.net/problem/2458 | G4 | O |
 | 게리멘더링 | https://www.acmicpc.net/problem/17471 | G4 | O |
-| 캐슬디펜스 | https://www.acmicpc.net/problem/17135 | 
+| 캐슬디펜스 | https://www.acmicpc.net/problem/17135 | G4 | O |
 | 연구소 | https://www.acmicpc.net/problem/14502 | G5 | O |
 | 다각형의면적 | https://www.acmicpc.net/problem/2166 | G5 | O |
 | 동전2 | https://www.acmicpc.net/problem/2294 | S1 | O |
