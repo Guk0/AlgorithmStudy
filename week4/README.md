@@ -10,6 +10,7 @@
 | 최솟값과 최댓값 | https://www.acmicpc.net/problem/2357 | G1 | O |
 | 거짓말 | https://www.acmicpc.net/problem/1043 | G4 | X |
 | 2*n 타일링 | https://programmers.co.kr/learn/courses/30/lessons/12900 | L3 | O |
+| 징검다리 건너기 | https://programmers.co.kr/learn/courses/30/lessons/64062 | L3 | X |
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
