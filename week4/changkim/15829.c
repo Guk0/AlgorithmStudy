@@ -8,21 +8,6 @@ int m = 1234567891;
 int abc[26];
 char alp[27];
 
-int jegop(int i, int count)
-{
-	int tmp;
-	int result;
-
-	result = 1;
-	while (count > 0)
-	{
-		result = result * i;
-		if (result >= m)
-			result = result % m;
-		count--;
-	}
-}
-
 int main(void)
 {
 	int l, i;
@@ -36,7 +21,7 @@ int main(void)
 	scanf("%s", str);
 	while (i < l)
 	{
-		result += (int)(str[i] - 96) * jegop(r, i);
+		result += (int)(str[i] - 96) * (int)pow(r, i);
 		i++;
 	}
 	result = result % m;
