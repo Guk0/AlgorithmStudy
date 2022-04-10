@@ -21,6 +21,7 @@
 | 벽돌깨기 | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo | 모의SW역량테스트 | O |
 | 활주로건설 | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH | 모의SW역량테스트 | O |
 | 탈주범검거 | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq | 모의SW역량테스트 | O |
+| 구슬탈출2 | https://www.acmicpc.net/problem/13460 | G1 | O |
 | 가장긴증가하는부분수열2 | https://www.acmicpc.net/problem/12015 | G2 | X |
 | 경사로 | https://www.acmicpc.net/problem/14890 | G3 | O |
 | 소문난칠공주 | https://www.acmicpc.net/problem/1941 | G3 | O |
@@ -31,11 +32,14 @@
 | 캐슬디펜스 | https://www.acmicpc.net/problem/17135 | G4 | O |
 | 연구소 | https://www.acmicpc.net/problem/14502 | G5 | O |
 | 다각형의면적 | https://www.acmicpc.net/problem/2166 | G5 | O |
+| 파이프옮기기 | https://www.acmicpc.net/problem/17070 | G5 | O |
 | 동전2 | https://www.acmicpc.net/problem/2294 | S1 | O |
 | 스티커 | https://www.acmicpc.net/problem/9465 | S1 | O |
 | 호텔 | https://www.acmicpc.net/problem/1106 | S1 | O |
 | 정수삼각형 | https://www.acmicpc.net/problem/1932 | S1 | O |
+| 포도주시식 | https://www.acmicpc.net/problem/2156 | S1 | O |
 | 아기상어2 | https://www.acmicpc.net/problem/17086 | S2 | O |
+| 연속합 | https://www.acmicpc.net/problem/1912 | S2 | O |
 
 
 ## changkim1
