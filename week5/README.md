@@ -26,4 +26,5 @@
 ## joonann
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
+| 최댓값 | https://www.acmicpc.net/problem/2562 | B2 | O |
 
