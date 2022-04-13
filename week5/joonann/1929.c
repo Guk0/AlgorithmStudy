@@ -30,7 +30,6 @@ int	prime(int N)
 int	main(void)
 {
 	int	N, M;
-	int	reuslt = 0;
 
 	scanf("%d %d", &N, &M);
 	while (N <= M)
