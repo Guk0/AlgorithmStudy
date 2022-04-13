@@ -29,18 +29,29 @@ print(dp[-1])
 # N = int(input())
 
 # arr = [list(map(int, input().split())) for _ in range(N)]
-# compression_arr = []
+# compression_arr = [0]
+# compression_index_dict = {}
 
-# for el in arr:
-#   compression_arr = compression_arr + [el[0], el[1]]
+# for i in range(len(arr)):
+#   compression_arr = compression_arr + [arr[i][0], arr[i][1]]
 
 # compression_arr.sort()
-# # arr.sort()
+# arr.sort(key=lambda x : x[1])
 
+# for i in range(len(set(compression_arr))):
+#   if compression_arr[i] not in compression_index_dict:
+#     compression_index_dict[compression_arr[i]] = i
 
 # dp = [0] * len(compression_arr)
 
-# for i in range(len(compression_arr)):
-#   if 
+# arr_index = 0
+# for i in range(1, len(compression_index_dict.keys())):
+#   end = arr[arr_index][1]
+#   if i == compression_index_dict[end]:
+#     current = dp[compression_index_dict[arr[arr_index][0]]] + arr[arr_index][2]
+#     dp[i] = max(current, dp[i-1])
+#     arr_index += 1
+#   else:
+#     dp[i] = dp[i-1]
 
 # print(dp[-1])
