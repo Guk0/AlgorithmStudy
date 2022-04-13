@@ -27,4 +27,5 @@
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
 | 최댓값 | https://www.acmicpc.net/problem/2562 | B2 | O |
+| 소수 구하기 | https://www.acmicpc.net/problem/1929 | S3 | O |
 
