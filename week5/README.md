@@ -20,6 +20,7 @@
 ## changkim1
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
+| 피보나치 함수 | https://www.acmicpc.net/problem/1003 | S3 | O |
 
 
 
