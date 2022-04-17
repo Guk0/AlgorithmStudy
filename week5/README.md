@@ -13,6 +13,8 @@
 | 원점으로집합 |  | D4 | O |
 | 조합 | https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGKdbqczEDFAUo | D3 | O |
 | 이항계수3 | https://www.acmicpc.net/problem/11401 | G1 | O |
+| 크게만들기 | https://www.acmicpc.net/problem/2812 | G4 | O |
+| 문자열폭발 | https://www.acmicpc.net/problem/9935 | G4 | O |
 | 안전영역 | https://www.acmicpc.net/problem/2468 | S1 | O |
 
 
