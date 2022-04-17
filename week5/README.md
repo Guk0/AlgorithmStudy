@@ -3,6 +3,7 @@
 ## guk0
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
+| 배열 돌리기 1 | https://www.acmicpc.net/problem/16926 | S1 | O |
 
 
 
