@@ -4,7 +4,7 @@
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
 | 배열 돌리기 1 | https://www.acmicpc.net/problem/16926 | S1 | O |
-
+| 안정적인 문자열 | https://www.acmicpc.net/problem/4889 | S1 | O |
 
 
 ## hbae 
