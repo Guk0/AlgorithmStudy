@@ -6,7 +6,8 @@
 | 배열 돌리기 1 | https://www.acmicpc.net/problem/16926 | S1 | O |
 | 안정적인 문자열 | https://www.acmicpc.net/problem/4889 | S1 | O |
 | 추월 | https://www.acmicpc.net/problem/2002 | S1 | O |
-
+| 생태학 | https://www.acmicpc.net/problem/4358 | S1 | O |
+| A와B | https://www.acmicpc.net/problem/12904 | G5 | O |
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
