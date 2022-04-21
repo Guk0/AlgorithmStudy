@@ -8,7 +8,9 @@
 | 추월 | https://www.acmicpc.net/problem/2002 | S1 | O |
 | 생태학 | https://www.acmicpc.net/problem/4358 | S1 | O |
 | A와B | https://www.acmicpc.net/problem/12904 | G5 | O |
+| A와B 2 | https://www.acmicpc.net/problem/12919 | G5 | O |
 
+# A와 B 2
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
