@@ -9,6 +9,7 @@
 | 생태학 | https://www.acmicpc.net/problem/4358 | S1 | O |
 | A와B | https://www.acmicpc.net/problem/12904 | G5 | O |
 | A와B 2 | https://www.acmicpc.net/problem/12919 | G5 | O |
+| 전화번호 목록 | https://www.acmicpc.net/problem/5052 | G4 | O |
 
 # A와 B 2
 ## hbae 
