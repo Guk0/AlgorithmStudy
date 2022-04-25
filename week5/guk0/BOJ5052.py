@@ -29,7 +29,6 @@ class Trie(object):
 
     for char in string:
       curr_node = curr_node.children[char]
-
     if curr_node.children:
       return False
     else:
@@ -58,3 +57,5 @@ for _ in range(T):
     print("YES")
   else:
     print("NO")
+
+
