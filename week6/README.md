@@ -8,6 +8,7 @@
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
+| PuyoPuyo | https://www.acmicpc.net/problem/11559 | 
 
 
 
