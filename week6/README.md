@@ -4,6 +4,8 @@
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
 | 개미굴 | https://www.acmicpc.net/problem/14725 | G2 | O |
+| 디스크 트리 | https://www.acmicpc.net/problem/7432 | G2 | O |
+| 다각형의 면적 | https://www.acmicpc.net/problem/2166 | G5 | X |
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
