@@ -11,6 +11,7 @@
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
 | PuyoPuyo | https://www.acmicpc.net/problem/11559 | G4 | O |
+| 암호코드 | https://www.acmicpc.net/problem/2011 | 
 
 
 
