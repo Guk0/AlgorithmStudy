@@ -30,3 +30,4 @@
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
 | 평균 | https://www.acmicpc.net/problem/1546 | B1 | O |
+| 이항 계수 1 | https://www.acmicpc.net/problem/11050 | B1 | O |
