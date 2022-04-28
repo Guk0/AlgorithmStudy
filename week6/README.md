@@ -7,6 +7,7 @@
 | 디스크 트리 | https://www.acmicpc.net/problem/7432 | G2 | O |
 | 다각형의 면적 | https://www.acmicpc.net/problem/2166 | G5 | X |
 | 휴대용 자판 | https://www.acmicpc.net/problem/5670 | P4 | X |
+| 카드 합체 놀이 | https://www.acmicpc.net/problem/15903 | S2 | O |
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
