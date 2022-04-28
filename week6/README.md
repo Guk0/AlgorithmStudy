@@ -14,6 +14,8 @@
 | PuyoPuyo | https://www.acmicpc.net/problem/11559 | G4 | O |
 | 암호코드 | https://www.acmicpc.net/problem/2011 | G5 | O |
 | LCS2 | https://www.acmicpc.net/problem/9252 | G4 | O |
+| 가장가까운공통조상 | https://www.acmicpc.net/problem/3584 | G4 | O |
+
 
 
 
