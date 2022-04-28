@@ -31,3 +31,4 @@
 | --- | --- | --- | --- |
 | 평균 | https://www.acmicpc.net/problem/1546 | B1 | O |
 | 이항 계수 1 | https://www.acmicpc.net/problem/11050 | B1 | O |
+| 별 찍기 1 | https://www.acmicpc.net/problem/2438 | B3 | O |
