@@ -8,6 +8,10 @@
 | 다각형의 면적 | https://www.acmicpc.net/problem/2166 | G5 | X |
 | 휴대용 자판 | https://www.acmicpc.net/problem/5670 | P4 | X |
 | 카드 합체 놀이 | https://www.acmicpc.net/problem/15903 | S2 | O |
+| 신입 사원 | https://www.acmicpc.net/problem/1946 | S1 | O |
+| 통나무 건너뛰기 | https://www.acmicpc.net/problem/11497 | S1 | O |
+| A -> B | https://www.acmicpc.net/problem/16953 | S1 | O |
+| 주사위 | https://www.acmicpc.net/problem/1041 | G5 | O |
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
