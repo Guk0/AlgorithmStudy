@@ -1,5 +1,6 @@
 # https://www.acmicpc.net/problem/1041
 # 주사위
+# 그리디
 
 # sum1
 # ABC ABD AED AEC FBC FBD FED FEC
