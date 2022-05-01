@@ -13,6 +13,7 @@
 | A -> B | https://www.acmicpc.net/problem/16953 | S1 | O |
 | 주사위 | https://www.acmicpc.net/problem/1041 | G5 | O |
 | 단어 수학 | https://www.acmicpc.net/problem/1339 | G4 | X |
+| 행렬 | https://www.acmicpc.net/problem/1080 | S1 | O |
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
