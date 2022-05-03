@@ -31,6 +31,7 @@
 ## changkim1
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
+| 단지번호붙이기 | https://www.acmicpc.net/problem/2667 | s1 | O |
 
 
 
