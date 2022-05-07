@@ -1,4 +1,4 @@
-# week 6
+# week 7
 
 ## guk0
 | 문제 | 링크 | Lv  | Solved? |
