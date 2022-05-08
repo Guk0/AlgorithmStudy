@@ -3,6 +3,7 @@
 ## guk0
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
+| 물통 | https://www.acmicpc.net/problem/2251 | G5 | O |
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
