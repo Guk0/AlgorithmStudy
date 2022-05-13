@@ -4,6 +4,9 @@
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
 | 물통 | https://www.acmicpc.net/problem/2251 | G5 | O |
+| 알파벳 | https://www.acmicpc.net/problem/1987 | G4 | O |
+| 소문난 칠공주 | https://www.acmicpc.net/problem/1941 | G3 | O |
+
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |

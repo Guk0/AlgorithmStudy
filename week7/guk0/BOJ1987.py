@@ -1,5 +1,6 @@
 # https://www.acmicpc.net/problem/1987
 # 알파벳
+# 백트래킹
 
 from sys import stdin
 from collections import deque
