@@ -6,6 +6,9 @@
 | 물통 | https://www.acmicpc.net/problem/2251 | G5 | O |
 | 알파벳 | https://www.acmicpc.net/problem/1987 | G4 | O |
 | 소문난 칠공주 | https://www.acmicpc.net/problem/1941 | G3 | O |
+| 연산자 끼워넣기 | https://www.acmicpc.net/problem/14888 | S1 | O |
+| 에너지 모으기 | https://www.acmicpc.net/problem/16198 | S1 | O |
+
 
 
 ## hbae 
