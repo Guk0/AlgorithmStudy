@@ -13,6 +13,10 @@
 | 신기한 소수 | https://www.acmicpc.net/problem/2023 | G5 | O |
 | 미친 로봇 | https://www.acmicpc.net/problem/1405 | G5 | O |
 | 선발 명단 | https://www.acmicpc.net/problem/3980 | G5 | O |
+| 월드컵 | https://www.acmicpc.net/problem/6987 | G5 | O |
+| 0 만들기 | https://www.acmicpc.net/problem/7490 | G5 | O |
+| 스도쿠 | https://www.acmicpc.net/problem/2580 | G4 | O |
+| 좋은수열 | https://www.acmicpc.net/problem/2661 | G4 | O |
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
