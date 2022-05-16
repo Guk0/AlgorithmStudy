@@ -17,6 +17,14 @@
 | 0 만들기 | https://www.acmicpc.net/problem/7490 | G5 | O |
 | 스도쿠 | https://www.acmicpc.net/problem/2580 | G4 | O |
 | 좋은수열 | https://www.acmicpc.net/problem/2661 | G4 | O |
+| N-Queen | https://www.acmicpc.net/problem/9663 | G5 | O |
+| 문자열 폭발 | https://www.acmicpc.net/problem/9935 | G4 | O |
+| 플로이드 | https://www.acmicpc.net/problem/11404 | G4 | O |
+| 친구 | https://www.acmicpc.net/problem/1058 | S2 | O |
+| 회장뽑기 | https://www.acmicpc.net/problem/2660 | G5 | O |
+| 키순서 | https://www.acmicpc.net/problem/2458 | G4 | O |
+| 운동 | https://www.acmicpc.net/problem/1956 | G4 | O |
+| 서강그라운드 | https://www.acmicpc.net/problem/14938 | G4 | O |
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
