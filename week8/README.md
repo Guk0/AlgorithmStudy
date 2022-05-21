@@ -1,4 +1,4 @@
-# week 8
+# week 80
 
 ## guk0
 | 문제 | 링크 | Lv  | Solved? |
@@ -19,7 +19,7 @@
 
 ## changkim1
 | 문제 | 링크 | Lv  | Solved? |
-| --- | --- | --- | --- |
+| 섬의 개수 | https://www.acmicpc.net/problem/1238 | S2 | O |
 
 ## joonann
 | 문제 | 링크 | Lv  | Solved? |
