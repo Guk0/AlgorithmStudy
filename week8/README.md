@@ -12,6 +12,8 @@
 | 파티 | https://www.acmicpc.net/problem/1238 | G3 | O |
 | 특정한 최단 경로 | https://www.acmicpc.net/problem/1504 | G4 | O |
 | 최소비용 구하기 2 | https://www.acmicpc.net/problem/11779 | G3 | O |
+| 해킹 | https://www.acmicpc.net/problem/10282 | G4 | O |
+
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
