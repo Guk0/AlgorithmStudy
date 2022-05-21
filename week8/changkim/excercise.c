@@ -41,11 +41,13 @@ int Is_empty()
 		return (1);
 }
 
-void	BFS(void)
+void	BFS(int i, int j)
 {
 	int n_x;
 	int n_y;
 
+	Enque(i, j);
+	visited[i][j] = 1;
 	while (Is_empty())
 	{
 		int i = 0;
@@ -88,9 +90,7 @@ int main(void)
 			{
 				if (!visited[i][j] && input[i][j])
 				{
-					Enque(i, j);
-					visited[i][j] = 1;
-					BFS();
+					BFS(i, j);
 					count++;
 				}
 			}
