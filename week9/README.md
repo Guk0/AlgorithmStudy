@@ -12,6 +12,7 @@
 
 ## changkim1
 | 문제 | 링크 | Lv  | Solved? |
+| 미로 탐색 | https://www.acmicpc.net/problem/2178 | S1 | O |
 
 
 ## joonann
