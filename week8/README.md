@@ -1,4 +1,4 @@
-# week 80
+# week 8
 
 ## guk0
 | 문제 | 링크 | Lv  | Solved? |
