@@ -19,6 +19,7 @@
 | 프린터 큐 | https://www.acmicpc.net/problem/1966 | S3 | O |
 | 스택 수열 | https://www.acmicpc.net/problem/1874 | S3 | O |
 | 나무 자르기 | https://www.acmicpc.net/problem/2805 | S3 | O |
+| 랜선 자르기 | https://www.acmicpc.net/problem/1654 | S3 | O |
 
 
 ## joonann
