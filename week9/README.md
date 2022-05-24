@@ -18,6 +18,7 @@
 | 나이트의 이동 | https://www.acmicpc.net/problem/7562 | S1 | O |
 | 프린터 큐 | https://www.acmicpc.net/problem/1966 | S3 | O |
 | 스택 수열 | https://www.acmicpc.net/problem/1874 | S3 | O |
+| 나무 자르기 | https://www.acmicpc.net/problem/2805 | S3 | O |
 
 
 ## joonann
