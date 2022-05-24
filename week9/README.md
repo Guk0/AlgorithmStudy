@@ -4,6 +4,8 @@
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
 | 숨바꼭질 2 | https://www.acmicpc.net/problem/12851 | G5 | O |
+| LCS | https://www.acmicpc.net/problem/9251 | G5 | O |
+
 
 
 ## hbae 
