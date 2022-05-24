@@ -14,6 +14,7 @@
 | 문제 | 링크 | Lv  | Solved? |
 | 미로 탐색 | https://www.acmicpc.net/problem/2178 | S1 | O |
 | 나이트의 이동 | https://www.acmicpc.net/problem/7562 | S1 | O |
+| 프린터 큐 | https://www.acmicpc.net/problem/1966 | S3 | O |
 
 
 ## joonann
