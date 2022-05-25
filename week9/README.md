@@ -5,7 +5,10 @@
 | --- | --- | --- | --- |
 | 숨바꼭질 2 | https://www.acmicpc.net/problem/12851 | G5 | O |
 | LCS | https://www.acmicpc.net/problem/9251 | G5 | O |
-
+| N과 M(2) | https://www.acmicpc.net/problem/15650 | S3 | O |
+| N과 M(4) | https://www.acmicpc.net/problem/15652 | S3 | O |
+| N과 M(5) | https://www.acmicpc.net/problem/15654 | S3 | O |
+| N과 M(8) | https://www.acmicpc.net/problem/15657 | S3 | O |
 
 
 ## hbae 
