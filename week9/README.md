@@ -12,6 +12,9 @@
 | N과 M(9) | https://www.acmicpc.net/problem/15663 | S2 | O |
 | N과 M(12) | https://www.acmicpc.net/problem/15666 | S2 | O |
 | 치킨배달 | https://www.acmicpc.net/problem/15686 | G5 | O |
+| 연구소 | https://www.acmicpc.net/problem/14502 | G5 | O |
+| 타임머신 | https://www.acmicpc.net/problem/11657 | G4 | O |
+| 웜홀 | https://www.acmicpc.net/problem/1865 | G3 | X |
 
 
 
