@@ -15,6 +15,11 @@
 | 연구소 | https://www.acmicpc.net/problem/14502 | G5 | O |
 | 타임머신 | https://www.acmicpc.net/problem/11657 | G4 | O |
 | 웜홀 | https://www.acmicpc.net/problem/1865 | G3 | X |
+| 최소 스패닝 트리 | https://www.acmicpc.net/problem/1197 | G4 | O |
+| 도시 분할 계획 | https://www.acmicpc.net/problem/1647 | G4 | O |
+| 네트워크 연결 | https://www.acmicpc.net/problem/1922 | G4 | O |
+| 별자리 만들기 | https://www.acmicpc.net/problem/4368 | G4 | O |
+| 우주신과의 교감 | https://www.acmicpc.net/problem/1774 | G3 | O |
 
 
 
