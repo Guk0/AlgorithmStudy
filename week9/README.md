@@ -20,6 +20,9 @@
 | 네트워크 연결 | https://www.acmicpc.net/problem/1922 | G4 | O |
 | 별자리 만들기 | https://www.acmicpc.net/problem/4368 | G4 | O |
 | 우주신과의 교감 | https://www.acmicpc.net/problem/1774 | G3 | O |
+| 행성 터널 | https://www.acmicpc.net/problem/2887 | G1 | O |
+| 최소비용 구하기 | https://www.acmicpc.net/problem/1916 | G5 | O |
+| 후위 표기식 | https://www.acmicpc.net/problem/1918 | G3 | X |
 
 
 
