@@ -12,6 +12,7 @@
 ## changkim1
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
+| 토마토 | https://www.acmicpc.net/problem/7576 | G5 | O |
 
 ## joonann
 | 문제 | 링크 | Lv  | Solved? |
