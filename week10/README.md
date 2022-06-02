@@ -9,6 +9,7 @@
 | 트리 | https://www.acmicpc.net/problem/4256 | G3 | X |
 | 트리의 순회 | https://www.acmicpc.net/problem/2263 | G2 | X |
 | 이진 검색 트리 | https://www.acmicpc.net/problem/5639 | G5 | O |
+| 치즈 | https://www.acmicpc.net/problem/2638 | G4 | O |
 
 
 
