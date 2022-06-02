@@ -10,6 +10,8 @@
 | 트리의 순회 | https://www.acmicpc.net/problem/2263 | G2 | X |
 | 이진 검색 트리 | https://www.acmicpc.net/problem/5639 | G5 | O |
 | 치즈 | https://www.acmicpc.net/problem/2638 | G4 | O |
+| Cubeditor | https://www.acmicpc.net/problem/1701 | G2 | O |
+| 찾기 | https://www.acmicpc.net/problem/1786 | P5 | O |
 
 
 
