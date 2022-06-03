@@ -12,6 +12,13 @@
 | 치즈 | https://www.acmicpc.net/problem/2638 | G4 | O |
 | Cubeditor | https://www.acmicpc.net/problem/1701 | G2 | O |
 | 찾기 | https://www.acmicpc.net/problem/1786 | P5 | O |
+| 문자열 제곱 | https://www.acmicpc.net/problem/4354 | P5 | X |
+| 나는 친구가 적다 (Large) | https://www.acmicpc.net/problem/16172 | G2 | O |
+| 광고 | https://www.acmicpc.net/problem/1305 | P4 | O |
+| 스티커 | https://www.acmicpc.net/problem/16172 | S1 | O |
+| 행렬 제곱 | https://www.acmicpc.net/problem/10830 | G4 | X |
+| 숨바꼭질 | https://www.acmicpc.net/problem/13549 | G5 | O |
+
 
 
 
