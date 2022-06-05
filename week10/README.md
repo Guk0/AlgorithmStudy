@@ -22,6 +22,8 @@
 | LCS3 | https://www.acmicpc.net/problem/1958 | G3 | O |
 | PPAP | https://www.acmicpc.net/problem/16120 | G4 | O |
 | 아기 상어 | https://www.acmicpc.net/problem/16236 | G3 | O |
+| 불우이웃돕기 | https://www.acmicpc.net/problem/1414 | G3 | O |
+| ACM craft | https://www.acmicpc.net/problem/1005 | G3 | X |
 
 
 
