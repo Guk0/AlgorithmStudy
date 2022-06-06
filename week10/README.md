@@ -24,6 +24,9 @@
 | 아기 상어 | https://www.acmicpc.net/problem/16236 | G3 | O |
 | 불우이웃돕기 | https://www.acmicpc.net/problem/1414 | G3 | O |
 | ACM craft | https://www.acmicpc.net/problem/1005 | G3 | X |
+| 작업 | https://www.acmicpc.net/problem/2056 | G5 | O |
+| 줄세우기 | https://www.acmicpc.net/problem/2252 | G3 | O |
+| 문제집 | https://www.acmicpc.net/problem/1766 | G2 | O |
 
 
 
