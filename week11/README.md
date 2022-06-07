@@ -7,6 +7,9 @@
 | 최종 순위 | https://www.acmicpc.net/problem/3665 | G1 | X |
 | 보석 도둑 | https://www.acmicpc.net/problem/1202 | G2 | X |
 | 보석 쇼핑 | https://programmers.co.kr/learn/courses/30/lessons/67258 | LV3 | O |
+| 책 나눠주기 | https://www.acmicpc.net/problem/9576 | G2 | O |
+| 노트북의 주인을 찾아서 | https://www.acmicpc.net/problem/1298 | P5 | O |
+| 비숍 | https://www.acmicpc.net/problem/1799 | G1 | O |
 
 
 ## hbae 
