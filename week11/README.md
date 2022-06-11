@@ -17,7 +17,9 @@
 | 1로 만들기 2 | https://www.acmicpc.net/problem/12852 | S1 | O |
 | 문자열 압축 | https://programmers.co.kr/learn/courses/30/lessons/60057 | LV2 | O |
 | 회문 | https://www.acmicpc.net/problem/17609 | G5 | O |
-
+| 오픈채팅방 | https://programmers.co.kr/learn/courses/30/lessons/42888 | LV2 | O |
+| 124 나라의 숫자 | https://programmers.co.kr/learn/courses/30/lessons/12899 | LV2 | O |
+| 경쟁적 전염 | https://www.acmicpc.net/problem/18405 | G5 | O |
 
 
 ## hbae 
