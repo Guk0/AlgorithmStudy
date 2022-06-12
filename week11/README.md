@@ -20,6 +20,11 @@
 | 오픈채팅방 | https://programmers.co.kr/learn/courses/30/lessons/42888 | LV2 | O |
 | 124 나라의 숫자 | https://programmers.co.kr/learn/courses/30/lessons/12899 | LV2 | O |
 | 경쟁적 전염 | https://www.acmicpc.net/problem/18405 | G5 | O |
+| 기능개발 | https://programmers.co.kr/learn/courses/30/lessons/42586 | LV2 | O |
+| 더 맵게 | https://programmers.co.kr/learn/courses/30/lessons/42626 | LV2 | O |
+| 가장 큰 수 | https://programmers.co.kr/learn/courses/30/lessons/42746 | LV2 | O |
+| 디스크 컨트롤러 | https://programmers.co.kr/learn/courses/30/lessons/42627 | LV3 | O |
+| 키로거 | https://www.acmicpc.net/problem/5397 | S2 | O |
 
 
 ## hbae 
