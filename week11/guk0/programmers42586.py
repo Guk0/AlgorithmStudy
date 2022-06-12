@@ -3,7 +3,7 @@
 
 from collections import deque
 from math import ceil
-
+import heapq
 def solution(progresses, speeds):
     progress_queue = deque(progresses)
     speed_queue = deque(speeds)

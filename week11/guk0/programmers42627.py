@@ -15,7 +15,7 @@ def solution(jobs):
     while queue or jobs:
         if not queue:
             start, duration = jobs.popleft()
-            current = start
+            current = start # 모든 큐가 비고 다시 원소가 추가될 경우 current를 start로 조정해야함.
             heapq.heappush(queue, [duration, start])
         
         duration, start = heapq.heappop(queue)

@@ -1,6 +1,6 @@
 # https://www.acmicpc.net/problem/18405
 # 경쟁적 전염
-# BFS
+# BFS, 시뮬레이션
 
 from sys import stdin
 from collections import deque
