@@ -33,7 +33,7 @@
 
 ## changkim1
 | 문제 | 링크 | Lv  | Solved? |
-| --- | --- | --- | --- |
+| 바닥 장식 | https://www.acmicpc.net/problem/1388 | S3 | O |
 
 ## joonann
 | 문제 | 링크 | Lv  | Solved? |
