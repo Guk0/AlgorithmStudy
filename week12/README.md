@@ -6,9 +6,12 @@
 | 로봇 시뮬레이션 | https://www.acmicpc.net/problem/2174 | G5 | O |
 | 점프 점프 | https://www.acmicpc.net/problem/11060 | S2 | O |
 | 탑 | https://www.acmicpc.net/problem/2493 | G5 | O |
+| 옥상 정원 꾸미기 | https://www.acmicpc.net/problem/6198 | G5 | O |
 | 주식가격 | https://programmers.co.kr/learn/courses/30/lessons/42584 | LV2 | O |
 | 프린터 | https://programmers.co.kr/learn/courses/30/lessons/42587 | LV2 | O |
-
+| 괄호 회전하기 | https://programmers.co.kr/learn/courses/30/lessons/76502 | LV2 | O |
+| 큰 수 만들기 | https://programmers.co.kr/learn/courses/30/lessons/42883 | LV2 | O |
+| 배 | https://www.acmicpc.net/problem/1092 | G5 | O |
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
