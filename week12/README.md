@@ -12,7 +12,7 @@
 | 괄호 회전하기 | https://programmers.co.kr/learn/courses/30/lessons/76502 | LV2 | O |
 | 큰 수 만들기 | https://programmers.co.kr/learn/courses/30/lessons/42883 | LV2 | O |
 | 배 | https://www.acmicpc.net/problem/1092 | G5 | O |
-
+| 메뉴 리뉴얼 | https://programmers.co.kr/learn/courses/30/lessons/72411 | LV2 | O |
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
 
