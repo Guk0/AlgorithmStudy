@@ -9,6 +9,9 @@
 | 다단계 칫솔 판매 | https://programmers.co.kr/learn/courses/30/lessons/77486 | LV3 | O |
 | [1차] 셔틀버스 | https://programmers.co.kr/learn/courses/30/lessons/17678 | LV3 | O |
 | 올바른 괄호 | https://programmers.co.kr/learn/courses/30/lessons/12909 | LV2 | O |
+| 다음 큰 숫자 | https://programmers.co.kr/learn/courses/30/lessons/12911 | LV2 | O |
+| 표 편집 | https://programmers.co.kr/learn/courses/30/lessons/81303 | LV3 | X |
+
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
