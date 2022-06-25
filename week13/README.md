@@ -12,7 +12,8 @@
 | 다음 큰 숫자 | https://programmers.co.kr/learn/courses/30/lessons/12911 | LV2 | O |
 | 표 편집 | https://programmers.co.kr/learn/courses/30/lessons/81303 | LV3 | X |
 | 다리를 지나는 트럭 | https://programmers.co.kr/learn/courses/30/lessons/42583 | LV2 | X |
-
+| [3차] 압축
+ | https://programmers.co.kr/learn/courses/30/lessons/17684 | LV2 | O |
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
