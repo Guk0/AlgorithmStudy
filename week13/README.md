@@ -15,7 +15,7 @@
 | [3차] 압축 | https://programmers.co.kr/learn/courses/30/lessons/17684 | LV2 | O |
 | 스킬트리 | https://programmers.co.kr/learn/courses/30/lessons/49993 | LV2 | O |
 | 불량 사용자 | https://programmers.co.kr/learn/courses/30/lessons/64064 | LV3 | O |
-
+| 단어 변환 | https://programmers.co.kr/learn/courses/30/lessons/43163 | LV3 | O |
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
