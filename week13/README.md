@@ -23,6 +23,10 @@
 
 ## changkim1
 | 문제 | 링크 | Lv  | Solved? |
+| --- | --- | --- | --- |
+| 설탕 배달 | https://www.acmicpc.net/problem/2839 | S4 | O |
+| 달팽이는 올라가고 싶다 | https://www.acmicpc.net/problem/2869 | S5 | O |
+| 균형잡힌 세상 | https://www.acmicpc.net/problem/4949 | S4 | O |
 
 ## joonann
 | 문제 | 링크 | Lv  | Solved? |
