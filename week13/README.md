@@ -27,6 +27,9 @@
 | 설탕 배달 | https://www.acmicpc.net/problem/2839 | S4 | O |
 | 달팽이는 올라가고 싶다 | https://www.acmicpc.net/problem/2869 | S5 | O |
 | 균형잡힌 세상 | https://www.acmicpc.net/problem/4949 | S4 | O |
+| Hashing | https://www.acmicpc.net/problem/15829 | B2 | O |
+| 안전 영역 | https://www.acmicpc.net/problem/2468 | S1 | O |
+| 부녀회장이 될테야 | https://www.acmicpc.net/problem/2775 | B1 | O |
 
 ## joonann
 | 문제 | 링크 | Lv  | Solved? |
