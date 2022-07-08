@@ -17,6 +17,8 @@
 | 불량 사용자 | https://programmers.co.kr/learn/courses/30/lessons/64064 | LV3 | O |
 | 단어 변환 | https://programmers.co.kr/learn/courses/30/lessons/43163 | LV3 | O |
 | 등굣길 | https://programmers.co.kr/learn/courses/30/lessons/42898 | LV3 | O |
+| N-Queen | https://programmers.co.kr/learn/courses/30/lessons/12952 | LV2 | O |
+
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
 | --- | --- | --- | --- |
