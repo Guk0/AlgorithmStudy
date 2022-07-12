@@ -20,6 +20,7 @@
 | N-Queen | https://programmers.co.kr/learn/courses/30/lessons/12952 | LV2 | O |
 | 숫자의 표현 | https://school.programmers.co.kr/learn/courses/30/lessons/12924 | LV2 | O |
 | 하노이 탑 | https://school.programmers.co.kr/learn/courses/30/lessons/12946 | LV2 | O |
+| 최솟값 만들기 | https://school.programmers.co.kr/learn/courses/30/lessons/12941 | LV2 | O |
 
 ## hbae 
 | 문제 | 링크 | Lv  | Solved? |
